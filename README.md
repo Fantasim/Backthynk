@@ -3,11 +3,13 @@
 
 <div align="center">
 
-https://github.com/user-attachments/assets/9034c9f5-1ed8-4ef6-a70b-7673624be742
+https://github.com/user-attachments/assets/30d41858-bf2f-4bdc-9ff7-2d623309604e
 
 <br />
 
 **A simple, lightweight micro-blogging service for people who think too fast.**
+
+
 
 </div>
 
@@ -128,8 +130,8 @@ Think Twitter timeline but for your brain.
 
 Create spaces, nest them, throw in quick thoughts, attach files, and actually find them later.
 
-<div align="center">
- <img alt="home" src="https://raw.githubusercontent.com/Backthynk/assets/refs/heads/main/home.png" width="100%">
+<div align="center"><
+ <img alt="home" src="https://github.com/Fantasim/Backthynk/blob/main/docs/ui/home.png?raw=true" width="100%">
 </div>
 
 <br />
@@ -181,7 +183,7 @@ Easy on the eyes at 3 AM.
 
 
 <div align="center">
- <img alt="home" src="https://raw.githubusercontent.com/Backthynk/assets/refs/heads/main/home2.png" width="100%">
+ <img alt="home" src="https://github.com/Fantasim/Backthynk/blob/main/docs/ui/home2.png?raw=true" width="100%">
 </div>
 <br />
 
